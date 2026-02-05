@@ -42,7 +42,7 @@ export default function Header() {
             &lt; &gt;
           </span>
           <span className={`font-mono text-sm font-semibold ${isOpen ? 'block' : 'hidden'}`}>
-            &lt; /&gt;
+            &lt; / &gt;
           </span>
         </button>
       </div>
